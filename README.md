@@ -1,2 +1,2 @@
-# grpc-fileupload-client-streaming-spring-boot
+# grpc-fileupload-demo-client-streaming-spring-boot
 # Youtube Link: https://youtu.be/PypbeDk3LZE
