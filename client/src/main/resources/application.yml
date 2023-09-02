@@ -1,0 +1,5 @@
+grpc:
+  client:
+    file-upload:
+      address: static://localhost:9090
+      negotiationType: plaintext
